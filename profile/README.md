@@ -9,6 +9,34 @@ Welcome to **GenAI Apps**, a collection of ideas, projects, prototypes, and prod
 
 ---
 
+
+## ✨ List of Live Apps
+
+**GenAI Apps** is a public innovation lab powered by [Md Sharif Alam @priom7](https://github.com/Priom7) that showcases:
+
+*** Business/SaaS/ERP***
+- https://finance-harmony.netlify.app/
+- https://tradingpedia.netlify.app/
+- https://automatehr.netlify.app/
+- https://global-edu-connect.netlify.app/
+- https://commissionpro.netlify.app/
+- https://global-edu-con.netlify.app/
+
+***Dev Tools***
+- https://laravel2doc.netlify.app/
+- https://db2ui.netlify.app/
+- https://genapi.netlify.app/
+
+***Research & Experimental Tools***
+- https://rdfplay.netlify.app/
+
+***Fun Projects***
+- https://genaiapps.netlify.app/
+
+Every project is developed with **minimum effort and maximum productivity** — showing how **AI can assist real developers**, not replace them.
+
+---
+
 ## ✨ What is GenAI Apps?
 
 **GenAI Apps** is a public innovation lab powered by [Md Sharif Alam @priom7](https://github.com/Priom7) that showcases:
