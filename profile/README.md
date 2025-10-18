@@ -14,7 +14,7 @@ Welcome to **GenAI Apps**, a collection of ideas, projects, prototypes, and prod
 
 **GenAI Apps** is a public innovation lab powered by [Md Sharif Alam @priom7](https://github.com/Priom7) that showcases:
 
-*** Business/SaaS/ERP***
+***Business/SaaS/ERP***
 - https://finance-harmony.netlify.app/
 - https://tradingpedia.netlify.app/
 - https://automatehr.netlify.app/
